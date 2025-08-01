@@ -19,7 +19,7 @@ The app allows users to browse products, view details, and simulate cart/checkou
 ## 🛠 Tech Stack
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Styling:** Tailwind CSS / Bootstrap (or specify your styling framework)
-- **State Management:** React Hooks / Redux (if used)
+- **State Management:** React Hooks / Redux 
 
 - **Deployment:** Vercel 
 
